@@ -138,39 +138,6 @@ Manage account settings:
 
 ---
 
-## Implementation Process
-
-### Git Commit Workflow
-
-* **Initial Setup**:
-
-  ```bash
-  feat: initialize React project with Redux
-  ```
-* **Feature Development**:
-
-  ```bash
-  feat: create poll creation and voting functionality
-  feat: implement real-time results display
-  ```
-* **UI Enhancements**:
-
-  ```bash
-  style: enhance UI with charts and responsive layouts
-  ```
-* **Bug Fixes**:
-
-  ```bash
-  fix: resolve state update bugs in Redux
-  ```
-* **Documentation**:
-
-  ```bash
-  docs: update README with project details
-  ```
-
----
-
 ## Installation & Setup
 
 1. **Clone the repository**:
@@ -192,33 +159,6 @@ Manage account settings:
    ```bash
    npm start
    ```
-
----
-
-## Deployment
-
-Deploy to [Vercel](https://vercel.com) or [Netlify](https://www.netlify.com). Ensure environment variables for API endpoints are configured in the hosting dashboard.
-
----
-
-## Evaluation Criteria
-
-1. **Functionality:**
-
-   * Create, share, and vote on polls
-   * Real-time result updates
-2. **Code Quality:**
-
-   * Effective Redux usage
-   * Modular and maintainable code
-3. **User Experience:**
-
-   * Intuitive navigation and design
-   * Responsive charts and pages
-4. **Version Control:**
-
-   * Clear, descriptive commits
-   * Logical repo structure
 
 ---
 
